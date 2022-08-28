@@ -19,11 +19,11 @@ $ git clone https://github.com/LucasGPon/Calculadora_Teste.git
 
 ### Funcionamento
 
-Após clona o projeto e abri-lo com a IDE, basta editar os cenarios de teste na classe CalculadoraTest.java, puxando o metodo referente a cada operação aritmética. Ex: soma, subtração, divisão e Multiplicação. Após editar, execute o projeto.
+Após clonar o projeto e abri-lo com a IDE, basta editar os cenarios de teste na classe CalculadoraTest.java, puxando o metodo referente a cada operação aritmética. Ex: soma, subtração, divisão e Multiplicação. Após editar, execute o projeto.
 
 ### Tecnologias
 
-Para construir o progeto foi utilizado a seguinte ferramenta
+Para construir o projeto foi utilizado a seguinte ferramenta
 - [Java](https://www.java.com/pt-BR/)
 
 ### Autor
